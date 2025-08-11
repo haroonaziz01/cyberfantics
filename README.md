@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=shark&height=238&color=gradient&text=Mansoor%20Bukhari&section=footer&reversal=false&textBg=false&fontColor=FF0000&animation=blink&descAlign=58&stroke=000000&strokeWidth=3&fontSize=92&fontAlignY=74" /></a><br>
+<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src=" /></a><br>
 
 <!-- Arrow -->
 <p align="center">
@@ -31,7 +31,6 @@
 
 ## 🌱 Current Focus:
 - **Artificial Intelligence**: Developing advanced AI models aimed at automating processes and providing actionable predictive insights.
-- **Cybersecurity**: Crafting innovative, AI-powered solutions to enhance security protocols and safeguard data.
 - **Data Science**: Analyzing large datasets to extract valuable trends and actionable insights, driving data-informed decision-making.
 - **Computer Vision**: Specializing in OpenCV and PyTorch for building intelligent systems that interpret and understand visual data.
 
